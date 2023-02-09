@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlvarezLuis2EVA</string>
+    <string name="tituloAgenda">AGENDA</string>
+    <string name="descripcionEmail">Introduzca aqui su email</string>
+    <string name="descripcionContasenna">Introduzca aquí su contrasenna</string>
+    <string name="hintEmail">Introduzca su Email</string>
+    <string name="hintContrasenna">Introduzca su Contrasenna</string>
+    <string name="btPreferencias">P</string>
+</resources>

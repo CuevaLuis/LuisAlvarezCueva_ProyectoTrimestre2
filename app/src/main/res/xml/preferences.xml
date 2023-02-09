@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Categoria 2">
+        <ListPreference android:key="1"
+            android:title="Tema"
+            android:summary="Seleccione un Tema"
+            android:dialogTitle="Tema de la aplicacion"
+            android:entries="@array/listaTemas"
+            android:entryValues="@array/valorTemas">
+        </ListPreference>
+    </PreferenceCategory>
+</PreferenceScreen>

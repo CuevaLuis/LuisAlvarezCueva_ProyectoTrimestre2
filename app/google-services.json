@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156890818756",
+    "project_id": "proyectotrimestre2-ddf7c",
+    "storage_bucket": "proyectotrimestre2-ddf7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156890818756:android:6d0498365c53a10a4cc191",
+        "android_client_info": {
+          "package_name": "cueva.luis.luisalvarezcueva_proyectotrimestre2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156890818756-0q6dvhr25crh893st85eka5cus14shmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qL_UhbYjIJOo3Ri2PJVhkYBIKrjsyME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156890818756-0q6dvhr25crh893st85eka5cus14shmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
